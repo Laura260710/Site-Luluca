@@ -1,0 +1,42 @@
+#logo {
+    width: 85px;
+}
+
+.nav-item {
+    font-family: 'Shantell Sans', cursive;
+}
+
+a {
+    color: blueviolet;
+}
+
+#fundo {
+    text-align: center;
+}
+
+#galeria {
+    width: 75%;
+}
+
+.titulo {
+    font-family: 'Merriweather', serif;
+}
+
+.coluna {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  /* Limpa o fluxo de elementos após as colunas */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ p {
+    font-size: 25px;
+ }
+
+ 
+  

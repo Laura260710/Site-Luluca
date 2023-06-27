@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+  }
+  .coluna {
+    flex: 1;
+    padding: 10px;
+  }
+  .coluna-esquerda {
+    background-color: #cd86ff;
+  }
+  .coluna-direita {
+    background-color: #faa0ff;
+  }
+  #voltar {
+    background-color: pink;
+    padding: 3px;
+    border-radius: 5px;
+    border-color: #cd86ff;
+ }
+
+ body {
+background-color: rgb(144, 144, 223);
+ }
